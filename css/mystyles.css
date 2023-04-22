@@ -1,0 +1,47 @@
+body{
+    background-image: url(../assets/img/Madabackgrouond.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 150;
+}
+nav{
+    background-color: whitesmoke;
+    flex: auto;
+}
+.container{
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+img{
+    float: left;
+    padding: 20px;
+    max-height: auto;
+    max-width: 150px;
+}
+p{
+    align-content:space-evenly;
+    color: darkslategray;
+    font-size: 22px;
+    padding-top: 30px;
+    max-height: 200px;
+}
+h2{
+    color: darkslategray;
+    font-weight: bold
+}
+.tab{
+    margin: 20px;
+}
+.foot{
+    align-content: center;
+    margin-left: 45%;
+}
+li{
+    color: darkslategray;
+}
+
+
+
